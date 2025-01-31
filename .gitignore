@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# OS or IDE-specific files
+.DS_Store
+*.idea
