@@ -6,7 +6,7 @@ This repository demonstrates how to integrate [LlamaIndex](https://github.com/je
 
 ## Project Overview
 
-- **`emergence_llamaindex.py`**: Main Python file that:
+- **`llamaindex-integration.py`**: Main Python file that:
   1. Loads your API keys from a `.env` file.
   2. Defines a function to create and poll an Emergence AI web workflow.
   3. Wraps that function as a **tool** for LlamaIndex.
@@ -57,8 +57,8 @@ This installs:
 Create a file named `.env` in the same directory:
 
 ```
-OPENAI_API_KEY=your-openai-key
-EMERGENCE_API_KEY=your-emergence-key
+OPENAI_API_KEY="<your-openai-key>"
+EMERGENCE_API_KEY="<your-emergence-key>"
 ```
 
 These environment variables are used by:
@@ -70,7 +70,7 @@ These environment variables are used by:
 ### 5. Run the Script
 
 ```bash
-python emergence_llamaindex.py
+python llamaindex-integration.py
 ```
 
 When prompted, enter a **web automation prompt**—for instance:
