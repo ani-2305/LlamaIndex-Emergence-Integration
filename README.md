@@ -1,4 +1,4 @@
-# LlamaIndex + Emergence Integration
+# LlamaIndex and Emergence AI Web Orchestrator Integration
 
 This repository demonstrates how to integrate [LlamaIndex](https://github.com/jerryjliu/gpt_index) with [Emergence AI's Web Orchestrator](https://api.emergence.ai/). It uses **OpenAI** for language model capabilities, and **Emergence AI** for web automation workflows.
 
