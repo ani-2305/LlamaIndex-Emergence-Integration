@@ -25,7 +25,7 @@ This repository demonstrates how to integrate [LlamaIndex](https://github.com/je
 If you haven’t already:
 
 ```
-git clone https://github.com/ani-2305/LlamaIndex-Emergence-Integration.git
+git clone https://github.com/<your username>/LlamaIndex-Emergence-Integration.git
 cd LlamaIndex-Emergence-Integration
 ```
 
